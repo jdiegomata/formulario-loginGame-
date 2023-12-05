@@ -1,0 +1,17 @@
+el proyecto sera la pagina para logiar un nuevo usuario en un juegovirtual 
+
+diego² se encargara en la elaboracion del front
+guayavitos se encargara de la parte del backend
+los locos se encargara de la conexion a la base de datos con tecnologia PDO 
+
+la pagina tendra nombre, apellido paterno, apellido materno, fecha de ingreso, correo electronico,nombre de usuario
+
+ademas tendra las restricciones necesarias y los placeholder 
+
+tendra colores invernales siendo color fuerte el rojo y blanco
+
+ademas de logos 
+
+el nombre no puede ser mayor de 40 los apellidos 50 el nombre de ususario no deve ser mayor a 17 ademas de que si puedan usar numeros y simbolos para su nombre de usuario 
+
+
